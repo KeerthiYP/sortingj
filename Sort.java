@@ -54,7 +54,7 @@ public class Sort {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {12, 11, 13, 5, 6, 7};
+        int[] numbers = {12, 11, 12, 5, 6, 9};
 
         System.out.println("Original array:");
         for (int num : numbers) {
